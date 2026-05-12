@@ -1,13 +1,13 @@
-# 🚀 Proyecto Intermodular: "Sociedad de Almas"
+# "Sociedad de Almas"
 Proyecto intermodular que integra desarrollo de software, administración de sistemas y diseño web, con el objetivo de simular un entorno tecnológico real.
 
 Incluye:
-- 🎮 Videojuego 2D en Java
-- 🏥 Sistema ERP/CRM orientado al sector veterinario
-- 🌐 Infraestructura cliente-servidor
-- 💻 Landing Page profesional responsive
+- Videojuego 2D en Java
+- Sistema ERP/CRM orientado al sector veterinario
+- Infraestructura cliente-servidor
+- Landing Page profesional responsive
 
-## 📝 Descripción del proyecto
+## Descripción del proyecto
 
 Este proyecto demuestra competencias técnicas transversales en distintas áreas del desarrollo tecnológico.
 Se ha diseñado como una simulación de un entorno profesional real, donde se combinan distintas soluciones digitales para cubrir necesidades específicas:
@@ -17,45 +17,45 @@ Se ha diseñado como una simulación de un entorno profesional real, donde se co
 - Administración de sistemas y redes
 - Diseño y desarrollo web
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
-### 💻 Desarrollo y programación
+### Desarrollo y programación
 - **Java & Java Swing** → Desarrollo del videojuego 2D (lógica, eventos, interfaz gráfica)
 - **HTML5, CSS3, JavaScript** → Desarrollo de la Landing Page (enfoque Mobile First)
 - **Markdown** → Documentación técnica del proyecto
 
-### 🗄️ Gestión de datos
+### Gestión de datos
 - **MySQL & MySQL Workbench** → Diseño y gestión de la base de datos
 - **JDBC** → Conexión entre Java y la base de datos
 - **JSON / XML** → Intercambio y estructuración de datos
 - **Triggers y Procedures** → Automatización de lógica de negocio
 
-### 🖥️ Sistemas y herramientas
+### Sistemas y herramientas
 - **Git & GitHub** → Control de versiones y gestión del proyecto
 - **Ubuntu 22.04 & Windows Server 2019** → Administración de servidores
 - **UML** → Modelado de sistemas (casos de uso y diagramas)
 - **Dolibarr** → Implementación de ERP/CRM
 
-## 🚀 Funcionalidades principales
+## Funcionalidades principales
 
-- 🎮 **Videojuego 2D interactivo**
+- **Videojuego 2D interactivo**
   - Gestión de eventos de teclado
   - Renderizado de elementos gráficos
   - Interacción entre componentes
 
-- 🗄️ **Base de datos automatizada**
+- **Base de datos automatizada**
   - Uso de triggers y procedures
   - Integridad y eficiencia de datos
 
-- 🌐 **Landing Page responsive**
+- **Landing Page responsive**
   - Diseño adaptable a móvil y escritorio
   - Estructura clara y profesional
 
-- 🔗 **Infraestructura cliente-servidor**
+- **Infraestructura cliente-servidor**
   - Conectividad entre sistemas Windows y Linux
   - Configuración de red funcional
  
-## 👤 Mi contribución
+## Mi contribución
 
 Dentro del proyecto he sido responsable de:
 
@@ -67,11 +67,11 @@ Dentro del proyecto he sido responsable de:
 - Resolución de problemas de conectividad en red
 - Documentación completa del proyecto
 
-## ⚠️ Problemas encontrados y soluciones aplicadas
+## Problemas encontrados y soluciones aplicadas
 
 Durante el desarrollo del proyecto surgieron diferentes problemas técnicos y de diseño en varias áreas. A continuación, se detallan junto con las soluciones implementadas:
 
-### 🎨 Diseño y manual de identidad corporativa
+### Diseño y manual de identidad corporativa
 
 **Problemas:**
 - Dificultad para seleccionar una paleta de colores adecuada.
@@ -85,7 +85,7 @@ Durante el desarrollo del proyecto surgieron diferentes problemas técnicos y de
 - Reorganización de la estructura visual de la página.
 - Uso de wireframes previos para planificar el diseño antes del desarrollo.
 
-### ☕ Desarrollo en Java (Java Swing)
+### Desarrollo en Java (Java Swing)
 
 **Problemas:**
 - Dificultades en la gestión de eventos.
@@ -100,7 +100,7 @@ Durante el desarrollo del proyecto surgieron diferentes problemas técnicos y de
 - Separación de la lógica de negocio y la interfaz gráfica.
 - Mejora de la organización del código para facilitar la escalabilidad.
 
-### 🌐 Sistemas y servidores
+### Sistemas y servidores
 
 **Problemas:**
 - Errores en la configuración de red en máquinas virtuales.
@@ -114,7 +114,7 @@ Durante el desarrollo del proyecto surgieron diferentes problemas técnicos y de
 - Corrección de la configuración de red en todas las máquinas.
 - Realización de pruebas de conectividad para validar la comunicación entre sistemas.
 
-## 📚 Aprendizajes obtenidos
+## Aprendizajes obtenidos
 
 Este proyecto me ha permitido desarrollar competencias técnicas y profesionales clave:
 
