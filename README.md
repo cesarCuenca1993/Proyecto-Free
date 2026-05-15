@@ -27,7 +27,6 @@ Se ha diseñado como una simulación de un entorno profesional real, donde se co
 ### Gestión de datos
 - **MySQL & MySQL Workbench** → Diseño y gestión de la base de datos
 - **JDBC** → Conexión entre Java y la base de datos
-- **JSON / XML** → Intercambio y estructuración de datos
 - **Triggers y Procedures** → Automatización de lógica de negocio
 
 ### Sistemas y herramientas
@@ -46,6 +45,7 @@ Se ha diseñado como una simulación de un entorno profesional real, donde se co
 - **Base de datos automatizada**
   - Uso de triggers y procedures
   - Integridad y eficiencia de datos
+  - Gestión de altas de usuarios y guardado de estadísticas de partida desde Java.
 
 - **Landing Page responsive**
   - Diseño adaptable a móvil y escritorio
@@ -59,7 +59,7 @@ Se ha diseñado como una simulación de un entorno profesional real, donde se co
 
 Dentro del proyecto he sido responsable de:
 
-- Desarrollo del videojuego 2D en Java (lógica y eventos)
+- Desarrollo del videojuego 2D en Java (lógica y eventos) y su integración con MySQL mediante JDBC.
 - Implementación de la interfaz gráfica con Java Swing
 - Diseño y desarrollo de la Landing Page
 - Configuración de servidores en Ubuntu y Windows Server
