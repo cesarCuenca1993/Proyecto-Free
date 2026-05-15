@@ -20,26 +20,24 @@ Se ha diseñado como una simulación de un entorno profesional real, donde se co
 ## Tecnologías utilizadas
 
 ### Desarrollo y programación
-- **Java & Java Swing** → Desarrollo del videojuego 2D (lógica, eventos, interfaz gráfica)
-- **HTML5, CSS3, JavaScript** → Desarrollo de la Landing Page (enfoque Mobile First)
+- **Java & Java Swing** → Utilizados para el desarrollo íntegro de la lógica del videojuego, la gestión de eventos de usuario y la creación de la interfaz gráfica de escritorio.
+- **HTML5, CSS3, JavaScript** → Empleados para la creación de la Landing Page con enfoque Mobile First.
   - HTML5: Estructuración y maquetación semántica del contenido web.
-  - CSS: Diseño visual, definición de la paleta de colores corporativa, tipografías y adaptabilidad (Responsive Design).
-  -JavaScript: Implementación de dinamismo e interactividad mediante la manipulación del DOM y gestión de eventos.
+  - CSS: Para el diseño visual, definición de la identidad corporativa (colores y tipografía) y asegurar la adaptabilidad (Responsive Design).
+  - JavaScript: Implementación de dinamismo e interactividad mediante la manipulación del DOM y gestión de eventos.
 - **Markdown** → Documentación técnica y profesional del repositorio, garantizando una lectura clara y estructurada del proyecto.
 
 ### Gestión de datos
 - **MySQL & MySQL Workbench** →  Diseño, administración y optimización de la base de datos Football Manager.
-  - Triggers: Implementación de lógica automática para mantener la integridad de los datos.
-  - Procedures: Encapsulamiento de consultas complejas para mejorar el rendimiento del servidor y centralizar la lógica de negocio.
-- **JDBC** → Conexión entre Java y la base de datos por medio de mysql
-   - Conectividad: Gestión de la conexión mediante el driver oficial para asegurar el intercambio de información.
-   - Consultas Dinámicas: Uso de sentencias SQL desde el código para la gestión de altas, bajas y consultas en tiempo real.
+  - Triggers: Para automatizar la integridad de los datos de forma interna.
+  - Procedures: Encapsulamiento de consultas complejas para mejorar el rendimiento del servidor.
+- **JDBC** →Actúa como el puente de conexión crítico entre la lógica de Java y la base de datos MySQL, permitiendo realizar consultas dinámicas (altas y bajas) en tiempo real.
 
 
 ### Sistemas y herramientas
-- **Git & GitHub** → Control de versiones y gestión del proyecto
-- **Ubuntu 22.04 , Windows Server 2019, Windows 10** → Administración de sistemas.
-   - Configuración de Red: Implementación de entornos virtuales utilizando Red NAT para entornos aislados y Modo Puente (Bridge) para garantizar la visibilidad y conectividad real entre el cliente y el servidor.
+- **Git & GitHub** → Empleados para el control de versiones y la gestión organizada del historial del proyecto.
+- **Ubuntu 22.04 , Windows Server 2019, Windows 10** → Utilizados para la administración de sistemas y simulación de un entorno cliente-servidor real
+   - Configuración de Red: Uso de Red NAT para aislamiento y Modo Puente (Bridge) para permitir conectividad real entre las máquinas virtuales.
    - Arquitectura Cliente-Servidor: Uso de Windows 10 como cliente para validar servicios alojados en servidores Ubuntu y Windows Server, asegurando una comunicación fluida mediante protocolos estándar.
 - **UML** → Modelado de sistemas (casos de uso y diagramas)
 - **Dolibarr** → Implementación y personalización de una solución empresarial para la gestión administrativa, cubriendo procesos de facturación, gestión de productos y servicios.
