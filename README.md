@@ -130,4 +130,5 @@ Este proyecto me ha permitido desarrollar competencias técnicas y profesionales
 - Uso fluido de Git y GitHub como herramientas esenciales para la trazabilidad del código y la gestión profesional del proyecto.
 - Mejora en la capacidad de diagnóstico y solución de problemas técnicos complejos en entornos cliente-servidor y redes virtuales.
 - Organización y documentación de proyectos técnicos
-
+## Video
+https://www.loom.com/share/38dc57a38e4147f4ac78bd2ead3393cb
