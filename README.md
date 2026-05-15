@@ -21,7 +21,7 @@ Se ha diseñado como una simulación de un entorno profesional real, donde se co
 
 ### Desarrollo y programación
 - **Java & Java Swing** → Utilizados para el desarrollo íntegro de la lógica del videojuego, la gestión de eventos de usuario y la creación de la interfaz gráfica de escritorio.
-- **HTML5, CSS3, JavaScript** → Empleados para la creación de la Landing Page con enfoque Mobile First.
+- **HTML5, CSS, JavaScript** → Empleados para la creación de la Landing Page con enfoque Mobile First.
   - HTML5: Estructuración y maquetación semántica del contenido web.
   - CSS: Para el diseño visual, definición de la identidad corporativa (colores y tipografía) y asegurar la adaptabilidad (Responsive Design).
   - JavaScript: Implementación de dinamismo e interactividad mediante la manipulación del DOM y gestión de eventos.
@@ -45,34 +45,32 @@ Se ha diseñado como una simulación de un entorno profesional real, donde se co
 ## Funcionalidades principales
 
 - **Videojuego 2D interactivo**
-  - Gestión de eventos de teclado
-  - Renderizado de elementos gráficos
-  - Interacción entre componentes
+  - Implementación de gestión de eventos de teclado, mouse en tiempo real para el movimiento y acciones del personaje.
+  - Renderizado eficiente de elementos gráficos y gestión de colisiones entre componentes.
+  - Menús interactivos y paneles de juego desarrollados con Java Swing.
 
 - **Base de datos automatizada**
-  - Uso de triggers y procedures
-  - Integridad y eficiencia de datos
-  - Gestión de altas de usuarios y guardado de estadísticas de partida desde Java.
+  - Gestión de altas de nuevos usuarios y guardado automático de estadísticas de partida directamente desde la aplicación Java mediante JDBC.
+  - Uso de Triggers y Stored Procedures para automatizar procesos internos, garantizando la integridad y eficiencia de los datos.
 
 - **Landing Page responsive**
-  - Diseño adaptable a móvil y escritorio
-  - Estructura clara y profesional
+  - Diseño optimizado para una visualización perfecta tanto en dispositivos móviles como en ordenadores de escritorio.
+  - Estructura clara y profesional orientada a la presentación del producto y la identidad corporativa.
 
 - **Infraestructura cliente-servidor**
-  - Conectividad entre sistemas Windows y Linux
-  - Configuración de red funcional
+  - Conectividad robusta entre sistemas operativos heterogéneos (Windows 10 como cliente y servidores Linux/Windows).
+  - Configuración de adaptadores de red que permiten la comunicación real entre máquinas virtuales, simulando un entorno de producción empresarial.
  
 ## Mi contribución
 
 Dentro del proyecto he sido responsable de:
 
-- Desarrollo del videojuego 2D en Java (lógica y eventos) y su integración con MySQL mediante JDBC.
-- Implementación de la interfaz gráfica con Java Swing
-- Diseño y desarrollo de la Landing Page
-- Configuración de servidores en Ubuntu y Windows Server
-- Diseño y automatización de la base de datos en MySQL
-- Resolución de problemas de conectividad en red
-- Documentación completa del proyecto
+- Programación completa de la lógica del videojuego 2D, incluyendo la implementación de la capa de persistencia mediante JDBC para la comunicación con MySQL.
+- Creación y maquetación de todas las ventanas y componentes visuales utilizando Java Swing, asegurando una experiencia de usuario fluida.
+- Diseño y programación desde cero de la Landing Page, aplicandoel manual de identidad corporativa
+- Configuración de servidores en Ubuntu , Windows Server y Windows 10 gestionando la seguridad, red y los servicios.
+- Resolución de incidencias críticas de conectividad en entornos virtuales, garantizando la comunicación estable en la arquitectura cliente-servidor.
+- Redacción de la documentación técnica completa, manuales de identidad y guías de configuración del proyecto.
 
 ## Problemas encontrados y soluciones aplicadas
 
@@ -125,11 +123,11 @@ Durante el desarrollo del proyecto surgieron diferentes problemas técnicos y de
 
 Este proyecto me ha permitido desarrollar competencias técnicas y profesionales clave:
 
-- Desarrollo de aplicaciones en Java con Java Swing
-- Diseño de interfaces web responsive (Mobile First)
-- Administración básica de sistemas Linux y Windows Server
+- Desarrollo de aplicación en Java con Java Swing y con conectividad JDBC para gestión de datos.
+- Dominio de la metodología Mobile First, logrando interfaces adaptables (responsive) y optimizadas para cualquier dispositivo.
+- Administración de servidores Linux/Windows, cogestionando infraestructuras de red y asegurando la comunicación mediante protocolos HTTP/HTTPS.
 - Diseño y automatización de bases de datos con MySQL
-- Uso de control de versiones con Git y GitHub
-- Resolución de problemas en entornos reales
+- Uso fluido de Git y GitHub como herramientas esenciales para la trazabilidad del código y la gestión profesional del proyecto.
+- Mejora en la capacidad de diagnóstico y solución de problemas técnicos complejos en entornos cliente-servidor y redes virtuales.
 - Organización y documentación de proyectos técnicos
 
