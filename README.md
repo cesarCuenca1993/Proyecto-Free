@@ -39,8 +39,8 @@ Se ha diseñado como una simulación de un entorno profesional real, donde se co
 ### Sistemas y herramientas
 - **Git & GitHub** → Control de versiones y gestión del proyecto
 - **Ubuntu 22.04 , Windows Server 2019, Windows 10** → Administración de sistemas.
-  -Configuración de Red: Implementación de entornos virtuales utilizando Red NAT para entornos aislados y Modo Puente (Bridge) para garantizar la visibilidad y conectividad real entre el cliente y el servidor.
-  -Arquitectura Cliente-Servidor: Uso de Windows 10 como cliente para validar servicios alojados en servidores Ubuntu y Windows Server, asegurando una comunicación fluida mediante protocolos estándar.
+   -Configuración de Red: Implementación de entornos virtuales utilizando Red NAT para entornos aislados y Modo Puente (Bridge) para garantizar la visibilidad y conectividad real entre el cliente y el servidor.
+   -Arquitectura Cliente-Servidor: Uso de Windows 10 como cliente para validar servicios alojados en servidores Ubuntu y Windows Server, asegurando una comunicación fluida mediante protocolos estándar.
 - **UML** → Modelado de sistemas (casos de uso y diagramas)
 - **Dolibarr** → Implementación y personalización de una solución empresarial para la gestión administrativa, cubriendo procesos de facturación, gestión de productos y servicios.
 
